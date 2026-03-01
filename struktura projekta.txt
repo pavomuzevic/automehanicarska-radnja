@@ -1,0 +1,17 @@
+automehanicarska-radnja/
+│
+├── index.html
+├── usluge.html
+├── onama.html
+├── kontakt.html
+│
+├── css/
+│   └── style.css
+├── js/
+│   └── script.js
+├── images/
+│   ├── logo.png
+│   ├── servis1.jpg
+│   ├── mehanicar.jpg
+│   └── kontakt.jpg
+└── README.md
